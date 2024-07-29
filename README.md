@@ -1,5 +1,7 @@
 Project Title: Dynamic Web Application using HTML5UP Template, PHP, and MySQL
+
 Project Overview:
+
 For this school project, I developed a dynamic web application utilizing a free HTML5UP template to create a visually appealing and responsive front-end. The project leverages PHP for server-side scripting to handle the business logic and MySQL for database management, ensuring efficient data storage and retrieval, including image handling.
 
 Project Components:
